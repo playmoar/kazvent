@@ -37,7 +37,7 @@ text-transform: uppercase;
 }
 .logo{
   width: 180px;
-  background-image: url(/img/Logo.png);
+  background-image: url(img/Logo.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -63,7 +63,7 @@ text-decoration: underline;
 
 .slide1{
   height: 800px;
-  background-image: url(/img/homescreen_bg.jpg);
+  background-image: url(img/homescreen_bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -161,7 +161,7 @@ transition: all .1s ease-in;
 
 .f1:before{
   content: "";
-  background-image: url(/img/Group1.png);
+  background-image: url(img/Group1.png);
   background-size: cover;
   height: 33px;
   width: 33px;
@@ -187,7 +187,7 @@ transition: all .1s ease-in;
 
 .f2:before{
   content: "";
-  background-image: url(/img/Group2.png);
+  background-image: url(img/Group2.png);
   background-size: cover;
   height: 33px;
   width: 33px;
@@ -200,7 +200,7 @@ transition: all .1s ease-in;
 .slide3 {
   margin: 0;
   height: 500px;
-  background-image: url(/img/2nd_pic_right.jpg);
+  background-image: url(img/2nd_pic_right.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
